@@ -1,4 +1,4 @@
-# Previsão da Velocidade do Vento usando IA e Dados Heterogêneos #
+# Previsão da Velocidade do Vento usando DeepLearning e Dados Heterogêneos #
 Este repositório contém o desenvolvimento de um pipeline computacional para a previsão da velocidade do vento a 100 metros de altura, com foco na costa leste do Maranhão
 . O estudo utiliza uma abordagem de Aprendizado Profundo alimentada pela fusão de dados observacionais de alta resolução e reanálises atmosféricas globais
 .
