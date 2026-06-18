@@ -27,3 +27,5 @@ Sinergia LiDAR + ERA5: O projeto investiga a integração de dados observacionai
 .
 Objetivo: Determinar em que medida a base global abundante pode complementar ou substituir a infraestrutura local em regiões sem monitoramento, criando um modelo preditivo com maior generalização
 .
+## 📝 Licença
+Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
